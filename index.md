@@ -5,7 +5,7 @@
 
 Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
-- [Kursplan](seminarplan.md){:target="blank"}
+- [Kursplan](kursplan.md){:target="blank"}
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-1006-1#week-47){:target="blank"}
 
 
@@ -47,6 +47,6 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.html){:target="blank"}. 
+Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.md){:target="blank"}. 
 
 For å få mappen vurdert må kandidaten bestå en muntlig presentasjon, samt bestå minst 6 av 9 arbeidskrav som er gitt i tilknytning til undervisning på emnet. Alle oppgaver løses individuelt.   
