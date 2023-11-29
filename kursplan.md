@@ -22,9 +22,9 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |14.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7     |
 |20.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
 |04.04 | 12  |Mer om kostnadsminimering   |Kap 5    |
+|05.04|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
 |15.04 | 13 | Fortjenestemaksimering I - Kort sikt  | Kap 6    |
 |18.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
-||**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 13.00|
 |22.04 | 15 |Konsumentteori   |Kap 7  |
 |02.05 | 16 |Konsumentatferd   | Kap 8  |
 |07.05 | 17 | Fullkommen konkurranse    |Kap 9, se Forsmak mappe 1.ipynb i kursrepoet   |
