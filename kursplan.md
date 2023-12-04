@@ -5,7 +5,7 @@
      
 Pensumbok "Innføring i mikroøkonomi", 3. utgave, Andreassen, Bredesen & Thøgersen.      
 
-Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/uit-sok-1006-v24/sok1006-notater).
+Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/uit-sok-1006-v24/sok-1006_notater).
 
 
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
