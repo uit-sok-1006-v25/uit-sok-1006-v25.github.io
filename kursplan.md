@@ -16,7 +16,7 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |29.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |  |
 |08.02 | 5 | Økonomisk politikk: avgifter | Kap 3.7 <br> [Prop 1 (LS) Skatter og avgifter 2023](https://www.regjeringen.no/contentassets/882fb5c97bf04386b4eb5d1ed898ae7b/no/pdfs/prp202220230001ls0dddpdfs.pdf) |
 |12.02| 6| Økonomisk politikk: prisregulering         | Kap 3.7 <br> [Afry-Menon Rapport (Strøm)](/artikler/afry_menon_oed_endelig-rapport.pdf)    |
-|19.02 | 7 | Forberedelse til mappeoppgave 1 | Se Jupyter notatblokk `Forsmak mappe 1.ipynb` og Kap. 9|
+|19.02 | 7 | Forberedelse til mappeoppgave 1 | |
 |22.02| 8 |Utdeling og gjennomgang: Mappeoppgave 1| Oppgave kommer|
 |11.03 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |14.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7     |
