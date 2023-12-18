@@ -10,3 +10,6 @@
 #### Kjøttmarkedet
 - [Kjøttbransjen spår kraftig økning i kjøttprisene](https://e24.no/naeringsliv/i/3E53zd/kjoettbransjen-spaar-kraftig-oekning-i-kjoettprisene) E24 18.01.23
 - [Estimat på elastisiteter](https://www.miljodirektoratet.no/globalassets/publikasjoner/m1492/m1492.pdf) Miljødirektoratet 2019 (s. 7)
+
+  #### Olivenolje
+  [Why the price of olive oil is soaring](https://www.economist.com/the-economist-explains/2023/12/13/why-the-price-of-olive-oil-is-soaring) The Economist 13.12.23
