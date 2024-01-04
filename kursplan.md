@@ -27,8 +27,8 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |18.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
 |22.04 | 15 |Konsumentteori   |Kap 7  |
 |02.05 | 16 |Konsumentatferd   | Kap 8  |
-|07.05 | 17 | Fullkommen konkurranse    |Kap 9, se Forsmak mappe 1.ipynb i kursrepoet   |
-|14.05 | 18 |Velferdseffekter av økonomisk politikk    |Kap 9, se Forsmak mappe 1.ipynb i kursrepoet   |
+|07.05 | 17 | Fullkommen konkurranse    |Kap 9   |
+|14.05 | 18 |Velferdseffekter av økonomisk politikk    |Kap 9   |
 |14.05| Utdeling| Mappeoppgave 2| Oppgave kommer|
 || **Frist**| Muntlig presentasjon av mappe 2| [Påmelding]()|
 |07.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl 14.00|
