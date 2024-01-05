@@ -19,6 +19,7 @@ Kurset tas normalt i andre semester, og teller 10 studiepoeng.
 ## Faglærerinfo  
 
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
+- [Daniel Fabio Groth](<dgr012@uit.no> (studentlærer)
 
 
 
