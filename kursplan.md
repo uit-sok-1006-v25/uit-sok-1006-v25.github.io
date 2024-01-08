@@ -10,7 +10,7 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
-|08.01 | 1 | 1. Innledning <br> 2. Enkel bruk av Python i mikroøkonomisk analyse | Kap 1, 2 <br> [Notater](/forelesningsnotater/Forelesning 1.pdf)     |
+|08.01 | 1 | 1. Innledning <br> 2. Enkel bruk av Python i mikroøkonomisk analyse | Kap 1, 2 <br> [Notater](Forelesning 1.pdf)     |
 |15.01 | 2 | Tilbud og etterspørsel |Kap 3.1-3.5 <br> [Ressurser](/ressurser_tilbud_etttersp.md)   |
 |25.01| 3| Tilbuds- og etterspørselselastisitet: Lineære funksjoner|Kap 3.6 |
 |29.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |  |
