@@ -11,7 +11,7 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
 |08.01 | 1 | 1. Innledning <br> 2. Enkel bruk av Python i mikroøkonomisk analyse | Kap 1, 2 <br> [Notater](Forelesning 1.pdf)     |
-|15.01 | 2 | Tilbud og etterspørsel |Kap 3.1-3.5 <br> [Ressurser](ressurser_tilbud_etttersp.html)   |
+|15.01 | 2 | Tilbud og etterspørsel |Kap 3.1-3.5 <br> [Ressurser](ressurser_tilbud_ettersp.md)   |
 |25.01| 3| Tilbuds- og etterspørselselastisitet: Lineære funksjoner|Kap 3.6 |
 |29.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |  |
 |08.02 | 5 | Økonomisk politikk: avgifter | Kap 3.7 <br> [Prop 1 (LS) Skatter og avgifter 2023](https://www.regjeringen.no/contentassets/882fb5c97bf04386b4eb5d1ed898ae7b/no/pdfs/prp202220230001ls0dddpdfs.pdf) |
