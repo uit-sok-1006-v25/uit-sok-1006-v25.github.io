@@ -4,6 +4,7 @@
 
 #### Boligmarkedet
 - [Sterk prisvekst i leiemarkedet](https://e24.no/naeringsliv/i/nQvP1J/sterk-prisvekst-i-leiemarkedet-stor-ubalanse-mellom-tilbud-og-etterspoersel) E24 17.01.23
+- [Leiepriser har steget med 34 000 kr på tre år](https://e24.no/norsk-oekonomi/i/APOBrE/leieprisene-har-steget-med-34000-kroner-paa-tre-aar) E24 10.01.24
 - [Supply and demand in real estate](https://www.thebalancemoney.com/real-estate-supply-and-demand-2866979) the balance 13.09.22
 - [Boligutvikler frykter ikke renten, men regjeringen](https://www.dn.no/eiendom/boligpriser/marius-gonsholt-hov/randi-marjamaa/boligutvikler-frykter-ikke-renten-men-regjeringen-det-vil-prege-boligmarkedet-helt-enormt/2-1-1383011) Dagens Næringsliv 04.01.23
 - [Britain needs more houses. Does the industry want to build them?](https://www.economist.com/britain/2023/12/11/britain-needs-more-houses-does-the-industry-want-to-build-them) The Economist 11.12.23
