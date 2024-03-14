@@ -19,7 +19,7 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |19.02 | 7 | Velferdseffekter av økonomisk politikk | Kap 9. |
 |22.02| 8 |Utdeling og gjennomgang: Mappeoppgave 1| [Oppgave i html format](mappe1_v24_endelig.html) <br> Se kursrepoet for .ipynb fila|
 |11.03 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
-|14.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7     |
+|14.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br> [Løsning Ren & Jie](Løsning for 10 Ren Jie.pdf)     |
 |20.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
 |04.04 | 12  |Mer om kostnadsminimering   |Kap 5    |
 |05.04|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
