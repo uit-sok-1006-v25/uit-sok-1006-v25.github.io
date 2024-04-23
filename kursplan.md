@@ -25,9 +25,8 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |05.04|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
 |15.04 | 13 | Fortjenestemaksimering I - Kort sikt  | Kap 6    |
 |18.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
-|22.04 | 15 |Konsumentteori   |Kap 7  |
-|02.05 | 16 |Konsumentatferd   | Kap 8  |
-|07.05 | 17 | Ekstra - etter behov    |   |
+|02.05 | 15 |Konsumentteori   |Kap 7  |
+|07.05 | 16 |Konsumentatferd   | Kap 8  |
 |14.05| Utdeling| Mappeoppgave 2| Oppgave kommer|
 || **Frist**| Muntlig presentasjon av mappe 2| Påmelding kommer|
 |07.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl 14.00|
