@@ -6,7 +6,7 @@
 Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
 - [Kursplan](kursplan.md){:target="blank"}
-- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=SOK-1006-1#week-47){:target="blank"}
+- [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=SOK-1006%2C1&type=course&sem=25v&campus=&hide_old=1){:target="blank"}
 
 
 ## Kursbeskrivelse 
@@ -34,7 +34,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/11190404190002205?auth=SAML){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/12621054290002205?institute=47BIBSYS_UBTO&auth=SAML){:target="blank"}  
 
 
 
@@ -43,7 +43,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/33633){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/37293){:target="blank"}.
 
 
 ## Innlevering og eksamen  
