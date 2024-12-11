@@ -50,4 +50,4 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 Kurset har mappeevaluering. Mappen inneholder to skriftlige oppgaver og skrives individuelt. Frister, oppgaver og ressurser finnes i [kursplanen](kursplan.md){:target="blank"}. 
 
-For å få mappen vurdert må kandidaten bestå en muntlig presentasjon, samt bestå minst 6 av 9 arbeidskrav som er gitt i tilknytning til undervisning på emnet. Alle oppgaver løses individuelt. Arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/37293/assignments) (.ipynb file og lenke til Github - **husk å gi tilgang til derekjclark og DanielFabioG**.  
+For å få mappen vurdert må kandidaten bestå en muntlig presentasjon, samt bestå minst 6 av 9 arbeidskrav som er gitt i tilknytning til undervisning på emnet. Alle oppgaver løses individuelt. Arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/37293/assignments) (.ipynb file og lenke til Github - **husk å gi tilgang til derekjclark og DanielFabioG**).  
