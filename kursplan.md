@@ -5,7 +5,8 @@
      
 Pensumbok "Innføring i mikroøkonomi", 3. utgave, Andreassen, Bredesen & Thøgersen.      
 
-Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/uit-sok-1006-v25/sok_1006_notater_v25).
+Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/uit-sok-1006-v25/sok_1006_notater_v25).            
+Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/sok_1006_solutions_v25).
 
 
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
@@ -21,15 +22,15 @@ Jupyter notatblokker til undervisningssesjoner finnes [her](https://github.com/u
 |24.02 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |10.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br>     |
 |17.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
+|21.03|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
 |24.03 | 12  |Mer om kostnadsminimering   |Kap 5    |
-|XX|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
 |31.03 | 13 | Fortjenestemaksimering I - Kort sikt  | Kap 6    |
 |10.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
 |24.04 | 15 |Konsumentteori   |Kap 7  |
 |28.04 | 16 |Konsumentatferd   | Kap 8  |
 |06.05| 17| Utdeling: Mappeoppgave 2| Oppgave kommer|
-|XX| **Frist**| Muntlig presentasjon av mappe 2| Påmelding kommer|
-|XX|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl 14.00|
+|27.-28.05| **Frist**| Muntlig presentasjon av mappe 2| [Påmelding](https://docs.google.com/document/d/12DRu5IEhje4QH4UIr25HYpjgooU-uHKxbx3LEklJYUM/edit?usp=sharing)|
+|06.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl XXX|
 
 
 
