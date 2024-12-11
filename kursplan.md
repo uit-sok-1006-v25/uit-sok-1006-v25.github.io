@@ -11,7 +11,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
-|09.01 | 1 | 1. Innledning <br> 2. Enkel bruk av Python i mikroøkonomisk analyse | Kap 1, 2 <br> [Notater](sok_1006_forelesning_1_v25.pdf)     |
+|09.01 | 1 | 1. Innledning <br> 2. Enkel bruk av Python i mikroøkonomisk analyse <br> 3. Nedlastning av data fra SSB | Kap 1, 2 <br> [Notater](sok_1006_forelesning_1_v25.pdf)     |
 |13.01 | 2 | Tilbud og etterspørsel |Kap 3.1-3.5 <br> [Ressurser](ressurser_tilbud_ettersp.md)   |
 |20.01| 3| Tilbuds- og etterspørselselastisitet: Lineære funksjoner|Kap 3.6 |
 |27.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |  |
