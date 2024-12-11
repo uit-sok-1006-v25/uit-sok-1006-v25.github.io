@@ -22,7 +22,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 |24.02 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |10.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br>     |
 |17.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
-|21.03|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
+|21.03|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. XX|
 |24.03 | 12  |Mer om kostnadsminimering   |Kap 5    |
 |31.03 | 13 | Fortjenestemaksimering I - Kort sikt  | Kap 6    |
 |10.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
