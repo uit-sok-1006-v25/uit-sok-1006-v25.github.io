@@ -8,6 +8,7 @@
 - [Supply and demand in real estate](https://www.thebalancemoney.com/real-estate-supply-and-demand-2866979) the balance 13.09.22
 - [Boligutvikler frykter ikke renten, men regjeringen](https://www.dn.no/eiendom/boligpriser/marius-gonsholt-hov/randi-marjamaa/boligutvikler-frykter-ikke-renten-men-regjeringen-det-vil-prege-boligmarkedet-helt-enormt/2-1-1383011) Dagens Næringsliv 04.01.23
 - [Britain needs more houses. Does the industry want to build them?](https://www.economist.com/britain/2023/12/11/britain-needs-more-houses-does-the-industry-want-to-build-them) The Economist 11.12.23
+- [SSB skrur opp boligprisprognosene](https://www.dn.no/eiendom/boligpriser/boligmarkedet/boligkjop/ssb-skrur-opp-boligprisprognosene/2-1-1752811) Dagens Næringsliv 13.12.24
 #### Kjøttmarkedet
 - [Kjøttbransjen spår kraftig økning i kjøttprisene](https://e24.no/naeringsliv/i/3E53zd/kjoettbransjen-spaar-kraftig-oekning-i-kjoettprisene) E24 18.01.23
 - [Estimat på elastisiteter](https://www.miljodirektoratet.no/globalassets/publikasjoner/m1492/m1492.pdf) Miljødirektoratet 2019 (s. 7)
