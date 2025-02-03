@@ -15,7 +15,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 |13.01 | 2 | Tilbud og etterspørsel |Kap 3.1-3.5 <br> [Ressurser](ressurser_tilbud_ettersp.md)   |
 |20.01| 3| Tilbuds- og etterspørselselastisitet: Lineære funksjoner|Kap 3.6 |
 |27.01 | 4 | Tilbuds- og etterspørselsfunksjoner med konstant elastisitet |  |
-|03.02 | 5 | Økonomisk politikk: avgifter | Kap 3.7 <br> [Prop 1 (LS) Skatter og avgifter 2025](https://www.regjeringen.no/contentassets/74e37d21af5c423bb247871958884e0e/no/pdfs/prp202320240001ls0dddpdfs.pdf) |
+|03.02 | 5 | Økonomisk politikk: avgifter | Kap 3.7 <br> [Prop 1 (LS) Skatter og avgifter 2025](https://www.regjeringen.no/contentassets/aa5e7ba7a4154aecbed44df60c214f35/no/pdfs/prp202420250001ls0dddpdfs.pdf) |
 |10.02| 6| Økonomisk politikk: prisregulering         | Kap 3.7 <br> [Afry-Menon Rapport (Strøm)](/artikler/afry_menon_oed_endelig-rapport.pdf)    |
 |17.02 | 7 | Velferdseffekter av økonomisk politikk | Kap 9. |
 |24.02| 8 |Utdeling: Mappeoppgave 1| Oppgave kommer|
