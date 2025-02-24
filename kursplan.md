@@ -18,7 +18,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 |03.02 | 5 | Økonomisk politikk: avgifter | Kap 3.7 <br> [Prop 1 (LS) Skatter og avgifter 2025](https://www.regjeringen.no/contentassets/aa5e7ba7a4154aecbed44df60c214f35/no/pdfs/prp202420250001ls0dddpdfs.pdf) |
 |10.02| 6| Økonomisk politikk: prisregulering         | Kap 3.7 <br> [Afry-Menon Rapport (Strøm)](/artikler/afry_menon_oed_endelig-rapport.pdf)    |
 |17.02 | 7 | Velferdseffekter av økonomisk politikk | Kap 9. |
-|24.02| 8 |Utdeling: Mappeoppgave 1| Oppgave kommer|
+|24.02| 8 |Utdeling: Mappeoppgave 1| [Oppgave](sok_1006_v25_m1_endelig.pdf)|
 |24.02 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
 |10.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br>     |
 |17.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
