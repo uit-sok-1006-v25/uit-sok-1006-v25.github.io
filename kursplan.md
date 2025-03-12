@@ -20,7 +20,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 |17.02 | 7 | Velferdseffekter av økonomisk politikk | Kap 9. |
 |24.02| 8 |Utdeling: Mappeoppgave 1| [Oppgave](sok_1006_v25_m1_endelig.pdf)|
 |24.02 | 9 |Produksjon: Teknologi   |Kap 4.1-4.6   |
-|10.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br>     |
+|10.03 | 10| Produksjonsteknologi og skalaegenskaper    |Kap 4.7 <br>  [Løsning Ren & Jie](Løsning for 10 Ren Jie.pdf)   |
 |17.03 | 11 |Bedriftens inntekter og kostnader   |Kap 5    |
 |21.03|**Frist**|Innlevering mappeoppgave 1| Wiseflow kl. 14.00|
 |24.03 | 12  |Mer om kostnadsminimering   |Kap 5    |
