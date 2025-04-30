@@ -28,7 +28,7 @@ Etter hvert blir løsninger laget ut [her](https://github.com/uit-sok-1006-v25/s
 |10.04 | 14  | Fortjenestemaksimering II - Lang sikt   |Kap 6   |
 |24.04 | 15 |Konsumentteori   |Kap 7  |
 |28.04 | 16 |Konsumentatferd   | Kap 8  |
-|30.04| 17| Utdeling: Mappeoppgave 2| Oppgave kommer|
+|30.04| 17| Utdeling: Mappeoppgave 2| [Oppgave](/sok_1006_v25_m2_endelig.pdf)|
 |23.05| **Frist**| Frivillig muntlig presentasjon av mappe 2| [Påmelding](https://docs.google.com/document/d/12DRu5IEhje4QH4UIr25HYpjgooU-uHKxbx3LEklJYUM/edit?usp=sharing)|
 |06.06|**Frist**|Innlevering mappeoppgave 2| Wiseflow kl 14.00|
 
